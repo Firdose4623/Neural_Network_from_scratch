@@ -60,5 +60,3 @@ The notebook is divided into the following sections:
 - Visualized training loss curve.  
 
 ---
-
-## 📂 Repository Structure
