@@ -1,6 +1,6 @@
 # MNIST Neural Network from Scratch (NumPy)
 
-This project implements a **feedforward neural network** for handwritten digit classification on the MNIST dataset **from scratch using NumPy**.  
+This project implements a **feedforward neural network** for handwritten digit classification on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/)  **from scratch using NumPy**.  
 The goal is to deepen understanding of how neural networks work under the hood without relying on high-level libraries like TensorFlow or PyTorch.
 
 ---
